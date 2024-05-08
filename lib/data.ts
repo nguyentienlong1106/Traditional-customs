@@ -15,6 +15,7 @@ const data = {
       isAdmin: false,
     },
   ],
+  products: [],
 };
 
 export default data;
