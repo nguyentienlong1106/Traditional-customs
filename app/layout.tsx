@@ -42,7 +42,7 @@ export default function RootLayout({
               ></label>
               <Sidebar />
             </div>
-            <Chatbot />
+            {/* <Chatbot /> */}
           </div>
         </Providers>
       </body>
