@@ -1,0 +1,56 @@
+.msg {
+  background: white;
+  padding: 5px 15px;
+  border-top-right-radius: 15px;
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+  width: max-content;
+  font-size: 14px;
+  color: lightslategrey;
+  box-shadow: 0 0 5px rgb(226, 226, 226);
+  max-width: 65%;
+  text-align: left;
+}
+.test {
+  text-align: right;
+  margin: 20px 0;
+}
+.rep {
+  background: rgb(253, 243, 224);
+  color: lightslategray;
+  padding: 5px 15px;
+  border-top-right-radius: 15px;
+  border-bottom-left-radius: 15px;
+  border-top-left-radius: 15px;
+  font-size: 14px;
+  box-shadow: 0 0 5px rgb(211, 211, 211);
+}
+.opt {
+  padding: 5px 20px;
+  columns: lightsalmon;
+  border: 1px solid blueviolet;
+  border-radius: 1rem;
+  margin: 0.3rem 0.5rem;
+  display: inline-block;
+  cursor: pointer;
+  font-weight: 500;
+  background: white;
+  text-align: center;
+  font-size: 14px;
+  color: blueviolet;
+}
+.link {
+  text-decoration: none;
+  display: block;
+  text-align: center;
+  color: aliceblue !important;
+  background: blueviolet;
+}
+.m-link {
+  text-decoration: none;
+}
+.link:active {
+  background: white;
+  border: 1px solid blueviolet;
+  color: blueviolet;
+}
